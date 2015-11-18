@@ -1,0 +1,5 @@
+When you initialize a repo, you do the thing and start the git thing and you need to do it so you can
+
+yes
+
+the staging area is an area that is used to build up commits, and the directory and repo hold those commits
